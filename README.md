@@ -382,7 +382,6 @@ The system will use Random Forest as the best model.
 **Fix:** You need an internet connection (Chart.js loads from CDN).
 If offline, download Chart.js and change the script src to a local path.
 
----
 
 ## 📈 EXPECTED PERFORMANCE
 
@@ -392,7 +391,6 @@ If offline, download Chart.js and change the script src to a local path.
 | XGBoost | ~0.95-0.98 | ~0.78-0.88 |
 | Logistic Reg | ~0.87-0.93 | ~0.65-0.78 |
 
----
 
 ## 🔬 EXTENDING THE PROJECT
 
@@ -404,6 +402,4 @@ Ideas to take it further:
 5. **Docker**: Package the app for deployment
 6. **Cloud Deploy**: Host on AWS/GCP/Azure
 
----
 
-*Built with ❤️ — FraudSentinel AI v2.4.1*
